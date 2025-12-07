@@ -284,6 +284,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Stephen Murya**
 
 *TypeCore is not affiliated with Google or FontBase.*
